@@ -60,3 +60,14 @@
 // double average = CalculateAverageGrade(grades);
 // Console.WriteLine(average);
 // // Console.WriteLine(CountFives);
+
+
+
+// void PrintPerson(string name, int age)
+// {
+//    Console.WriteLine($"Имя: {name}, возраст: {age}");
+// }
+
+// PrintPerson("Игорь", 24);
+// PrintPerson("Илья", 15);
+// PrintPerson("Иван", 34);
