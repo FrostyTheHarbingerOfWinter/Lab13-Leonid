@@ -29,3 +29,34 @@
 
 
 
+// // int averageGrade = 5;
+// // bool isEligibleForBonus(double averageGrade)
+// // {
+// //    isEligibleForBonus = true;
+// //    if averageGrade => 4.5;
+// // }
+
+// double CalculateScholarship(double baseAmount, double bonusPercent)
+// {
+//    return baseAmount + baseAmount * bonusPercent / 100;
+// }
+
+// double result = CalculateScholarship(2000, 15);
+// Console.WriteLine(result);
+
+
+
+// double CalculateAverageGrade(int[] grades)
+// {
+//    int sum = 0;
+//    foreach (int grade in grades)
+//    {
+//       sum += grade;
+//    }
+//    return (double)sum / grades.Length;
+// }
+// // double CountFives(int[] grades); 
+// int[] grades = { 4, 5, 3, 5, 4 };
+// double average = CalculateAverageGrade(grades);
+// Console.WriteLine(average);
+// // Console.WriteLine(CountFives);
